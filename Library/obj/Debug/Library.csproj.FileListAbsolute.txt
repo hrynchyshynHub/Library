@@ -1,0 +1,9 @@
+E:\eleks\c#\Task1\Library\bin\Debug\Library.exe.config
+E:\eleks\c#\Task1\Library\bin\Debug\Library.exe
+E:\eleks\c#\Task1\Library\bin\Debug\Library.pdb
+E:\eleks\c#\Task1\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\eleks\c#\Task1\Library\obj\Debug\Library.exe
+E:\eleks\c#\Task1\Library\obj\Debug\Library.pdb
+E:\eleks\c#\Homework1,2\Library\bin\Debug\Library.exe.config
+E:\eleks\c#\Homework1,2\Library\obj\Debug\Library.exe
+E:\eleks\c#\Homework1,2\Library\obj\Debug\Library.pdb

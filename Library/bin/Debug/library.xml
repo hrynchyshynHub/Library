@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1" name="Shevchenko Libarary">
+  <authors>
+    <author id="2" name="Ivan" surname="Hrynchsyhyn" />
+    <author id="3" name="Taras" surname="Shevchenko" />
+    <author id="4" name="Adolf" surname="Gitler" />
+    <author id="5" name="Bruce" surname="Ekkel" />
+    <author id="1" name="Mukola" />
+  </authors>
+  <departaments>
+    <departament id="1" name="IT" library_id="0">
+      <books>
+        <book id="1" title="Java" pages="600" author_id="0" />
+        <book id="2" title="Php" pages="3434" author_id="1" />
+        <book id="2" title="C#" pages="444" author_id="1" />
+      </books>
+    </departament>
+    <departament id="2" name="Clissic" library_id="0">
+      <books>
+        <book id="3" title="Romeo" pages="43" author_id="2" />
+        <book id="4" title="Bukvar" pages="4" author_id="0" />
+        <book id="51" title="Lord of the Rings" pages="293" author_id="2" />
+      </books>
+    </departament>
+    <departament id="3" name="Ukraine" library_id="0">
+      <books />
+    </departament>
+  </departaments>
+</Library>
